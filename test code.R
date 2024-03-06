@@ -1,7 +1,7 @@
 library(ryouwithme)
 
 ?read.csv
-library(xlsx)
+library(readxl)
 
-?read.excel
+?read_excel
 
